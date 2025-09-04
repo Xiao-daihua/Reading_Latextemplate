@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1754397190.71282 "main.xdv" "main.pdf" "main" 1754397191.59214 0
-  "main.xdv" 1754397190.50334 27556 b934bee7ee03222315650f7aee0bf8ba "xelatex"
+["xdvipdfmx"] 1757005565.55548 "main.xdv" "main.pdf" "main" 1757005566.76268 0
+  "main.xdv" 1757005565.37284 7556 fbacc4b03a355b7fb92bcb1338ca7b78 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1754397183.68373 "main.tex" "main.xdv" "main" 1754397191.58559 0
-  "/System/Library/Fonts/Menlo.ttc" 1746337162 2156036 ec05dfca6821d85440da0899493002c3 ""
+["xelatex"] 1757005558.03341 "main.tex" "main.xdv" "main" 1757005566.75687 0
+  "/System/Library/Fonts/Menlo.ttc" 1755369869 2156036 ec05dfca6821d85440da0899493002c3 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -117,10 +117,10 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty" 1748806692 4474 c510a88aa5f51b8c773b50a7ee92befd ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty" 1748806692 2444 9983e1d0683f102e3b190c64a49313aa ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/atveryend/atveryend.sty" 1728505250 1695 be6b4d13b33db697fd3fd30b24716c1a ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1738182759 2378 14b657ee5031da98cf91648f19642694 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/fix-cm.sty" 1738182759 14741 6ad9efc94c78efc56749b0f059d15546 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty" 1748806692 5275 2f50a1b91fdc3c2c6ff41843a6854061 ""
-  "/usr/local/texlive/2025/texmf-dist/tex/latex/base/report.cls" 1748806692 23203 f495085ac76be4e20c5e1e88646a241e ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo" 1748806692 8449 8dc66c6c313c8eb2d774af83bca435dd ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/ts1enc.def" 1738182759 8090 bcb38b4f148e75e16d2c33225dbca53b ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/bbold/bbold.sty" 1137109921 1827 b8dfd92843f5ac03d85dbd86854854d5 ""
@@ -222,17 +222,13 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1750926848 5891524 3ddce580d962c5e645f787bf7a31f21f ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "assets/testfile.png" 1754397154.51239 140631 10c36dbbddc8ea6e95a4304cd89b3eb1 ""
-  "chap1learn.tex" 1754397170.44416 342 a4abd8a40852394ea9f84d41241b6e20 ""
-  "cjkhl.sty" 1753067964.69765 2659 07e07fe2124aaffe2c1f544596237850 ""
-  "knowledge.tex" 1754396929.81229 724 926c8d63dd57d6fa7e342c08d1693fc3 ""
-  "macros.sty" 1753067946.75278 6677 cf13e6c39359c2d67f989acbddf79b9d ""
-  "main.aux" 1754397190.44527 1789 ce1c67ed5ba232d432dfce195c3c70b8 "xelatex"
-  "main.out" 1754397190.48279 536 ea8e307ac888be788c20051ad13e7c5e "xelatex"
-  "main.tex" 1754397038.58164 3057 fe5976c066b59ddaa2400dbcfdc898a5 ""
-  "main.toc" 1754397190.48381 422 275f39da798d0796b66eb8f6048d9c14 "xelatex"
-  "result.tex" 1754395408.62814 184 50f19bbc9caaa646d0d742c0d18b9cab ""
-  "sb.tex" 1754396529.97931 89 d2d395969e402b7f628516cd55008e4a ""
+  "cjkhl.sty" 1757005326.62549 2659 07e07fe2124aaffe2c1f544596237850 ""
+  "macros.sty" 1757005326.62602 6677 cf13e6c39359c2d67f989acbddf79b9d ""
+  "main.aux" 1757005565.30933 622 027e233c2dba30001c4c8a472b8e8882 "xelatex"
+  "main.out" 1757005565.34544 224 24385df5882f8b94357c9b59c11f8c70 "xelatex"
+  "main.tex" 1757005503.14907 2877 243cedf53241e01156477e8407806502 ""
+  "main.toc" 1757005565.37246 139 c553a9c4ae95a2c11e680bcdb70b35ac "xelatex"
+  "sb.tex" 1757005326.62997 89 d2d395969e402b7f628516cd55008e4a ""
   (generated)
   "main.aux"
   "main.log"

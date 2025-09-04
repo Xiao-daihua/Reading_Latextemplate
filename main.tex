@@ -1,7 +1,7 @@
 % main.tex - 科研项目学习笔记模板
 % !TeX root = main.tex
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DOCUMENT 
-\documentclass[12pt]{report}
+\documentclass[12pt]{article}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PACKAGES
 
@@ -73,28 +73,22 @@
 
 \begin{document}
 
-\title{\boldmath Liuy的latex科研及学习笔记模板}
+\title{\boldmath Liuy的科研读书笔记模板}
 \author{X. D. H.}
 
 \maketitle
 
 \begin{abstract}
-  这个是我的Latex科研学习模板！我是用这个模板完成科研工作的记录，学习内容的记录。我会比较系统性的整理知识，同时也是用了很多的快捷方法。 
+  这个是liuy进行读书学习使用的模板！
 \end{abstract}
 
 \tableofcontents
+\section{Chapter1Reading}\label{sec:Chapter1Reading} % (fold)
+input{chapter1reading.tex}
+% section Chapter1Reading (end)
 
-\chapter{科研主体内容}
-\input{result.tex}
-
-\chapter{知识补充！}
-\input{knowledge.tex}
-
-\chapter{chap1 小呆花}\label{chap:chap1} % (fold)
-\input{chap1learn.tex}
-% chapter chap1 小呆花 (end)
-
-\chapter{Scratch Book}
+\section{Scratch book}\label{sec:Scratch book} % (fold)
 \input{sb.tex}
+% section Scratch book (end)
 
 \end{document}
