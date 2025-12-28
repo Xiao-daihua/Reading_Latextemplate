@@ -8,10 +8,7 @@ rm -rf .git
 
 pull 下来之后我们会出现被识别为submodule的情况，请使用下面的代码防止这种情况发生：
 ```
-git rm --cached CFT/Primary_BCFT
-rm -rf CFT/Primary_BCFT/.git
-git add CFT/Primary_BCFT
-git commit -m "fixed"
-git push
+git rm --cached Reading_Latextemplate
+rm -rf Reading_Latextemplate/.git
 ```
 
