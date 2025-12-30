@@ -68,6 +68,14 @@
 % 自定义宏包
 \usepackage{macros}
 
+\usepackage[
+    backend=biber,
+    style=phys,      % 或 numeric, apa, ieee, authoryear, etc.
+    eprint=true      % 显示 arXiv
+]{biblatex}
+\addbibresource{refs.bib}
+
+
 % 一个中文可以高亮的包
 \usepackage{cjkhl}
 \definecolor{lightblue}{rgb}{.8,.8,1}
@@ -87,13 +95,12 @@
 \maketitle
 
 \begin{abstract}
-This is a template for research project reading notes. You can modify the preamble and add your own sections as needed.
+  This is a template for research project reading notes. You can modify the preamble and add your own sections as needed. \cite{collierSolving3dGravity2023}
 \end{abstract}
 
 \tableofcontents
 
-\section{Scratch book}\label{sec:Scratch book} % (fold)
-\input{sb.tex}
-% section Scratch book (end)
+
+\printbibliography
 
 \end{document}

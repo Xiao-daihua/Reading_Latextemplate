@@ -1,10 +1,17 @@
 # Fdb version 4
-["xdvipdfmx"] 1766929720.98531 "main.xdv" "main.pdf" "main" 1766929721.65458 0
-  "main.xdv" 1766929720.83475 5784 024e745a875d99973bb35607f9397130 "xelatex"
+["biber main"] 1767095328.7086 "main.bcf" "main.bbl" "main" 1767095345.42255 0
+  "main.bcf" 1767095344.68531 108286 4bb1a15acdc14b7860f31a79ac0552dc "xelatex"
+  "refs.bib" 1767095290.88352 1952 4ba1fe1a4daf8c0a847c18f72a4906e6 ""
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["xdvipdfmx"] 1767095344.84172 "main.xdv" "main.pdf" "main" 1767095345.42678 0
+  "main.xdv" 1767095344.68695 7000 149f177d9039cf0cfe778951eaa9d741 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1766929714.88956 "main.tex" "main.xdv" "main" 1766929721.6506 0
+["xelatex"] 1767095338.21781 "main.tex" "main.xdv" "main" 1767095345.42267 0
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -103,6 +110,7 @@
   "/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul.sty" 1686773644 16881 d8b4a12a106b66e472bfd2de30eb0314 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty" 1575152242 21514 b7557edcee22835ef6b03ede1802dad4 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/ulem/ulem.sty" 1578692523 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
+  "/usr/local/texlive/2025/texmf-dist/tex/generic/unicode-data/UnicodeData.txt" 1736283795 2175362 f50a0495d2000b7d6dd979cb40e00ba2 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty" 1576624663 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/amscls/amsthm.sty" 1591045760 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty" 1359763108 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
@@ -118,8 +126,24 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/atveryend/atveryend.sty" 1728505250 1695 be6b4d13b33db697fd3fd30b24716c1a ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty" 1738182759 2378 14b657ee5031da98cf91648f19642694 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty" 1748806692 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size11.clo" 1748806692 8464 f339f4d5391fbe0425b2d94c90e6819e ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/bbold/bbold.sty" 1137109921 1827 b8dfd92843f5ac03d85dbd86854854d5 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-phys/phys.bbx" 1744228708 12665 7927cf6237c20a81b1b62bbed16ddcab ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-phys/phys.cbx" 1744228708 1440 f00300f38f65e36f7073ab2d054e283b ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex-phys/phys.dbx" 1744228708 1367 f2d111609d07009b97337f15c5818f20 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx" 1342308459 92 7cdbb04a1e32fba0fbb91b6e6d123497 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx" 1609451401 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx" 1609451401 25680 409c3f3d570418bc545e8065bebd0688 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.cfg" 1342308459 69 249fa6df04d948e51b6d5c67bea30c42 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.def" 1711143581 96838 228f189cb4020ea9f6d467af8aa859c2 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/biblatex.sty" 1711143581 533961 a8d65602d822bf3d3c823e6dc4922bbc ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" 1711143581 9961 107fdb78f652fccae7bce0d23bdc19cd ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-compat.def" 1643926307 13919 5426dbe90e723f089052b4e908b56ef9 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-dm.def" 1711143581 32761 18d14e3b502c120f79b2184de4e21d14 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/blx-unicode.def" 1609451401 3786 1f89d14780f0ad89ab94652b37f4e9b8 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx" 1678141846 10425 7de071597dabda19c14ff0780122d6d4 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1711143581 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/cleveref/cleveref.sty" 1525128982 329481 7fc6b003158402a4c694bc0a1b729308 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/colortbl/colortbl.sty" 1747945524 12709 4ca3cf5f9f1d551b8a1090fba11ac95d ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty" 1137110062 230 7bc61880b468bfd38aedc173be7c3486 ""
@@ -152,6 +176,8 @@
   "/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-xetex.def" 1745869811 32559 9c4a50437d9bc16aba8aeef110931bb0 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty" 1748806692 6558 15a6f37273122d80579b2a23c7c7bd4b ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1724879202 9783 ab4bee47700c04aadedb8da27591b0ab ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.def" 1284153563 1620 fb1c32b818f2058eca187e5c41dfae77 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/makecell/makecell.sty" 1249334690 15773 2dd7dde1ec1c2a3d0c85bc3b273e04d8 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mathtools.sty" 1728349409 62711 3b0ed1d68b598a75677c10d16646d5e5 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/mathtools/mhsetup.sty" 1616101747 5582 a43dedf8e5ec418356f1e9dfe5d29fc3 ""
@@ -199,15 +225,18 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "cjkhl.sty" 1757005326.62549 2659 07e07fe2124aaffe2c1f544596237850 ""
   "macros.sty" 1763590216.00622 6941 ba45a27a4c54e2119e40ce5c8de2a610 ""
-  "main.aux" 1766929720.79174 369 9af66d8e3ad2e06a4ad6bae7f0cab0aa "xelatex"
-  "main.out" 1766929720.81346 106 25a35bbc167d38b22bfedf9e8887877c "xelatex"
-  "main.tex" 1766929710.27089 2874 95815393ce9402fd9f9e3c81eda6c5e2 ""
-  "main.toc" 1766929720.83405 68 4d4820d612133a14138b71c52783f5a4 "xelatex"
-  "sb.tex" 1763590475.43692 43 f20ec8ed132e5c2846e12299808ff94e ""
+  "main.aux" 1767095344.64596 434 5c0e02397acd43e8d15ef61d964bb639 "xelatex"
+  "main.bbl" 1767095331.40553 4192 71d00b3d8ad19ed5eaec1eaa6df1d338 "biber main"
+  "main.out" 1767095344.36221 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "main.run.xml" 1767095344.68674 2459 5f24069daca273b0e1cd5d5d74a2b49d "xelatex"
+  "main.tex" 1767095297.10365 3003 5f4d14e087a5892d43a4aadd1d952121 ""
+  "main.toc" 1767095344.60846 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
   "main.aux"
+  "main.bcf"
   "main.log"
   "main.out"
+  "main.run.xml"
   "main.toc"
   "main.xdv"
   (rewritten before read)
